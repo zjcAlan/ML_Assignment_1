@@ -1,7 +1,7 @@
 # ML_Assignment_Example
 
 ## 1. Loss Curve
-![loss](Picture/Loss_urve.png)
+![loss](Picture/Loss_Curve.png)
 
 ## 2. Acc Curve
 ![loss](Picture/Acc_Curve.png)
